@@ -47,5 +47,5 @@ jobs:
             }
           }
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
     - run: "echo 'Pull Requests Data: ${{ steps.get_latest_release.outputs.data }}'"
