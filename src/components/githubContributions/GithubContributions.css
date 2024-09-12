@@ -1,0 +1,15 @@
+.github-contributions {
+    width: 100%;
+    text-align: center;
+}
+.github-contributions-img {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 768px) {
+    .github-contributions {
+        font-size: 20px;
+    }
+    
+}

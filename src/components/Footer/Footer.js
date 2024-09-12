@@ -1,30 +1,18 @@
 import React from "react";
-import styled from "@emotion/styled";
+import "./Footer.css";
+import { Fade } from "react-reveal";
+import { greeting } from "../../portfolio.js";
+/* eslint-disable jsx-a11y/accessible-emoji */
 
-const FooterSection = styled.div`
-  background-image: url(/footer_wave.svg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  height: 250px;
-  position: relative;
-
-  span {
-    position: absolute;
-    bottom: 4rem;
-    color: #fff;
-
-    a {
-      text-decoration: underline;
-    }
-  }
-`;
-function Footer() {
+export default function Footer(props) {
   return (
-    <FooterSection>
-      <div className="Container"/>
-    </FooterSection>
+    <div className="footer-div">
+      <Fade>
+        <p className="footer-text" style={{ color: props.theme.secondaryText }}>
+          Made with <span role="img">❤️</span> by {greeting.title}
+        </p>
+        {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle}/> */}
+      </Fade>
+    </div>
   );
 }
-
-export default Footer;

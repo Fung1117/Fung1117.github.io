@@ -1,0 +1,12 @@
+.raw_logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.raw_logo_img {
+  width: 800px;
+  height: auto;
+}
