@@ -58,7 +58,7 @@ const skills = {
       skills: [
         "⚡ Building responsive website front ends using React.",
         "⚡ Developing mobile applications using SwiftUI and React Native, as well as native Android apps with Kotlin.",
-        "⚡ Creating application backends using Node, Express, Flask, PHP, Django, and Java Spring Boot."
+        "⚡ Creating application backends using Node, Express, Flask, PHP, Django, and Java Spring Boot.",
       ],
       softwareSkills: [
         {
@@ -117,7 +117,7 @@ const skills = {
           style: {
             color: "#6DB33F",
           },
-        }
+        },
       ],
     },
     {
@@ -229,7 +229,7 @@ const degrees = {
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Mobile App Development and Web Development.",
-        "⚡ For my final year project, I developed a robot guide dog to assist visually impaired individuals in navigating safely. Utilizing ROS and Python AI frameworks like TensorFlow, I implemented navigation algorithms and object recognition for real-time obstacle avoidance and guidance.",
+        "⚡ For my final year project, I am developing a robot guide dog to assist visually impaired individuals in navigating safely. Utilizing ROS and Python AI frameworks like TensorFlow, I implemented navigation algorithms and object recognition for real-time obstacle avoidance and guidance.",
       ],
       website_link: "https://www.hku.hk/",
     },
@@ -261,7 +261,7 @@ const competitions = {
       competition_link: "https://www.hkstp.org/",
       alt_name: "Hong Kong Science and Technology Parks Corporation",
       color_code: "#ffffff",
-    }
+    },
   ],
 };
 
@@ -280,8 +280,7 @@ const certifications = {
       title: "Frontend Development (React)",
       subtitle: "- HackerRank",
       logo_path: "hackerRank_logo.png",
-      certificate_link:
-        "https://www.hackerrank.com/certificates/d1fe81c32537",
+      certificate_link: "https://www.hackerrank.com/certificates/d1fe81c32537",
       alt_name: "HackerRank",
       color_code: "#040d18",
     },
@@ -298,7 +297,8 @@ const certifications = {
       title: "Deep Learning in Python",
       subtitle: "- DataCamp",
       logo_path: "datacamp_logo.jpg",
-      certificate_link: "https://www.datacamp.com/statement-of-accomplishment/track/7e4317d0bc2ca4ca088ceec40720cfb300a7fc87",
+      certificate_link:
+        "https://www.datacamp.com/statement-of-accomplishment/track/7e4317d0bc2ca4ca088ceec40720cfb300a7fc87",
       alt_name: "DataCamp",
       color_code: "#02ef61",
     },
@@ -306,10 +306,11 @@ const certifications = {
       title: "Machine Learning Fundamentals with Python",
       subtitle: "- DataCamp",
       logo_path: "datacamp_logo.jpg",
-      certificate_link: "https://www.datacamp.com/statement-of-accomplishment/track/d4de58d993cb5f99e81661a84bd96bf70b997098",
+      certificate_link:
+        "https://www.datacamp.com/statement-of-accomplishment/track/d4de58d993cb5f99e81661a84bd96bf70b997098",
       alt_name: "DataCamp",
       color_code: "#02ef61",
-    }
+    },
     // {
     //   title: "Deep Learning",
     //   subtitle: "- Andrew Ng",
@@ -416,7 +417,8 @@ const certifications = {
 const experience = {
   title: "Experience",
   subtitle: "Internship",
-  description: "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+  description:
+    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
   header_image_path: "experience.svg",
   sections: [
     // {
@@ -491,7 +493,7 @@ const experience = {
           logo_path: "ntt_logo.png",
           duration: "Jun 2024 - Aug 2024",
           location: "Hong Kong",
-          descriptions:[
+          descriptions: [
             "💡 This is a global IT services and consulting company. I am assisting NTT Data Hong Kong in enhancing their merchant portal, which provides a unified payment platform, customizable solutions, and value-added services to streamline payment operations for clients in the Asia-Pacific region.",
             "🌟 I developed a responsive front-end web application and back-end API for a merchant portal, enabling merchants to manage payment services, customize payment links, and track earnings via an intuitive dashboard.",
             "🌟 I also conducted end-to-end testing using Cypress, automating UI validation and workflow testing to ensure the reliability and performance of the merchant portal, ultimately enhancing user experience and reducing potential errors.",
@@ -501,8 +503,7 @@ const experience = {
         {
           title: "Part Time Software Engineer",
           company: "Carbon Exchange (Hong Kong) Ltd.",
-          company_url:
-            "https://www.carbonexchange.net/",
+          company_url: "https://www.carbonexchange.net/",
           logo_path: "carbonExchange_logo.png",
           duration: "Sep 2023 - May 2024",
           location: "Hong Kong",
@@ -635,9 +636,8 @@ const contactPageData = {
   },
   emailSection: {
     title: "Get In Touch",
-    subtitle:
-    "Feel free to reach out for collaboration or questions!",
-    email: "kingfung.pun.dev@gmail.com"
+    subtitle: "Feel free to reach out for collaboration or questions!",
+    email: "kingfung.pun.dev@gmail.com",
   },
   addressSection: {
     title: "Address",
