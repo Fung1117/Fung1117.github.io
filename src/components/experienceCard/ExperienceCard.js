@@ -55,13 +55,9 @@ class ExperienceCard extends Component {
               style={{ background: `${theme.body}` }}
             >
               <div
+                className="experience-card-heading"
                 style={{
-                  display: "flex",
-                  flexDirection: "row",
-                  justifyContent: "space-between",
                   backgroundColor: theme.headerColor,
-                  borderRadius: "7px 7px 0px 0px",
-                  padding: "10px",
                 }}
               >
                 <div>
@@ -71,9 +67,7 @@ class ExperienceCard extends Component {
                   >
                     {experience["title"]}
                   </h3>
-                  <p
-                    className="experience-card-company"
-                  >
+                  <p className="experience-card-company">
                     <a
                       href={experience["company_url"]}
                       target="_blank"
@@ -101,17 +95,19 @@ class ExperienceCard extends Component {
                   </div>
                 </div>
               </div>
-              
+
               <div className="experience-repo-description" />
-                {experience["descriptions"].map((sentence) => {
-                  return (
-                    <p className="experience-card-description" style={{ color: theme.text }}>
-                      {sentence}
-                    </p>
-                  );
-                })}
-              </div>
-            
+              {experience["descriptions"].map((sentence) => {
+                return (
+                  <p
+                    className="experience-card-description"
+                    style={{ color: theme.text }}
+                  >
+                    {sentence}
+                  </p>
+                );
+              })}
+            </div>
           </div>
         </Fade>
       </div>

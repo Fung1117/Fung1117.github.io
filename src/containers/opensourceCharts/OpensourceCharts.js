@@ -20,10 +20,10 @@ class OpensourceCharts extends Component {
         <div className="os-charts-body-div">
           <GithubContributions />
         </div>
-        {/* <div className="os-charts-body-div">
+        <div className="os-charts-body-div">
           <PullRequestChart />
           <IssueChart />
-        </div> */}
+        </div>
       </div>
     );
   }
