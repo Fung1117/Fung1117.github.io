@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fde798fc5fe01646e310fe673020984",
+    "revision": "c25d6321b2b3aa9e0ee73b4552575666",
     "url": "./index.html"
   },
   {
-    "revision": "73d4e048f28d9a2515fb",
-    "url": "./static/css/main.7b77278b.chunk.css"
+    "revision": "4ef23baeb3e07c7574be",
+    "url": "./static/css/main.b75d751f.chunk.css"
   },
   {
-    "revision": "1b58698c8b5b96abd8d2",
-    "url": "./static/js/2.509656c3.chunk.js"
+    "revision": "d235df797a60ff3ab978",
+    "url": "./static/js/2.048ece87.chunk.js"
   },
   {
-    "revision": "73d4e048f28d9a2515fb",
-    "url": "./static/js/main.b4bb56dc.chunk.js"
+    "revision": "4ef23baeb3e07c7574be",
+    "url": "./static/js/main.25065dd4.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -62,10 +62,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "./static/media/blogs_image.058eca4c.svg"
-  },
-  {
-    "revision": "0ccaa3a1cfaf85cc7f5a910e401c2db2",
-    "url": "./static/media/carbonExchange_logo.0ccaa3a1.png"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
@@ -174,6 +170,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
     "url": "./static/media/gcp_logo.0ee7e8c9.png"
+  },
+  {
+    "revision": "dc2dd60594a218c08d65bfb9f102e407",
+    "url": "./static/media/gdsc_logo.dc2dd605.png"
   },
   {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
