@@ -11,7 +11,7 @@ class ExperienceCard extends Component {
     return (
       <div
         className="experience-list-item"
-        style={{ marginTop: index === 0 ? -120 : -50 }}
+        style={{ marginTop: index === 0 ? -120 : -100 }}
       >
         <Fade left duration={2000} distance="40px">
           <div className="experience-card-logo-div">
@@ -46,10 +46,6 @@ class ExperienceCard extends Component {
         </div>
         <Fade right duration={2000} distance="40px">
           <div className="experience-card-container">
-            <div
-              className="arrow-left"
-              style={{ borderRight: `10px solid ${theme.headerColor}` }}
-            ></div>
             <div
               className="experience-card"
               style={{ background: `${theme.body}` }}

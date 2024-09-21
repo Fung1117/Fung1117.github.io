@@ -418,7 +418,7 @@ const experience = {
   title: "Experience",
   subtitle: "Internship",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have experience in developing innovative solutions for sustainable finance and ESG reporting. My work involves enhancing merchant portals for streamlined payment operations. I am passionate about technology and enjoy organizing events; I actively contribute to a developer community by leading workshops and hackathons, fostering a collaborative environment for individuals to grow their technical skills.",
   header_image_path: "experience.svg",
   sections: [
     // {
@@ -476,15 +476,18 @@ const experience = {
       work: true,
       experiences: [
         // {
-        //   title: "Machine Learning Intern",
-        //   company: "TikTok Inc.",
-        //   company_url: "https://www.tiktok.com/en/",
-        //   logo_path: "tiktok_logo.png",
-        //   duration: "May 2022 - Present",
+        //   title: "Information Technology Assistant",
+        //   company: "NTT Data Hong Kong Ltd.",
+        //   company_url: "https://hk.nttdata.com/",
+        //   logo_path: "ntt_logo.png",
+        //   duration: "Sep 2024 - PRESENT",
         //   location: "Hong Kong",
-        //   description:
-        //     "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
-        //   color: "#000000",
+        //   descriptions: [
+        //     "💡 This is a global IT services and consulting company. I am assisting NTT Data Hong Kong in enhancing their merchant portal, which provides a unified payment platform, customizable solutions, and value-added services to streamline payment operations for clients in the Asia-Pacific region.",
+        //     "🌟 I developed a responsive front-end web application and back-end API for a merchant portal, enabling merchants to manage payment services, customize payment links, and track earnings via an intuitive dashboard.",
+        //     "🌟 I also conducted end-to-end testing using Cypress, automating UI validation and workflow testing to ensure the reliability and performance of the merchant portal, ultimately enhancing user experience and reducing potential errors.",
+        //   ],
+        //   color: "#ee3c26",
         // },
         {
           title: "Information Technology Summer Intern",
@@ -516,67 +519,25 @@ const experience = {
         },
       ],
     },
-    // {
-    //   title: "Volunteerships",
-    //   experiences: [
-    //     {
-    //       title: "Google Explore ML Facilitator",
-    //       company: "Google",
-    //       company_url: "https://about.google/",
-    //       logo_path: "google_logo.png",
-    //       duration: "June 2019 - April 2020",
-    //       location: "Hyderabad, Telangana",
-    //       description:
-    //         "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
-    //       color: "#4285F4",
-    //     },
-    //     {
-    //       title: "Microsoft Student Partner",
-    //       company: "Microsoft",
-    //       company_url: "https://www.microsoft.com/",
-    //       logo_path: "microsoft_logo.png",
-    //       duration: "Aug 2019 - May 2020",
-    //       location: "Hyderabad, Telangana",
-    //       description:
-    //         "Microsoft Student Partner is a program for university students to lead the awareness and use of Cloud especially Azure tools in the development of their projects and startups. Under this program, I have organised hands on workshops and seminars to teach Cloud Computing concepts to students.",
-    //       color: "#D83B01",
-    //     },
-    //     {
-    //       title: "Mozilla Campus Captain",
-    //       company: "Mozilla",
-    //       company_url: "https://www.mozilla.org/",
-    //       logo_path: "mozilla_logo.png",
-    //       duration: "Oct 2019 - May 2020",
-    //       location: "Kurnool, Andhra Pradesh",
-    //       description:
-    //         "My responsibility for this program was to create opensource environment in college and in the city. We have organised multiple hackathons on the problems collected by ordinary people from Kurnool city. We have build opensource community of our own college. The community is available at dsc_iiitdmk on github.",
-    //       color: "#000000",
-    //     },
-    //     {
-    //       title: "Developer Students Club Member",
-    //       company: "DSC IIITDM Kurnool",
-    //       company_url:
-    //         "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
-    //       logo_path: "dsc_logo.png",
-    //       duration: "Jan 2018 - May 2020",
-    //       location: "Kurnool, Andhra Pradesh",
-    //       description:
-    //         "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
-    //       color: "#0C9D58",
-    //     },
-    //     {
-    //       title: "Developer Program Member",
-    //       company: "Github",
-    //       company_url: "https://github.com/",
-    //       logo_path: "github_logo.png",
-    //       duration: "July 2019 - PRESENT",
-    //       location: "Work From Home",
-    //       description:
-    //         "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, Uber, Facebook, Google, Scikit-learn, Kiwix, Sympy, Python, NVLabs, Fossasia, Netrack, Keras etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-    //       color: "#181717",
-    //     },
-    //   ],
-    // },
+    {
+      title: "Volunteerships",
+      experiences: [
+        {
+          title: "Core Member",
+          company: "Google Developer Student Club @ HKU",
+          company_url: "https://developers.google.com/community",
+          logo_path: "gdsc_logo.png",
+          duration: "Sep 2024 - PRESENT",
+          location: "Hong Kong",
+          descriptions: [
+            "💡 As a core member of the Google Developer Student Club, I collaborate with a diverse group of students to foster a tech community on campus, focusing on skill development, project collaboration, and knowledge sharing.",
+            "🌟 I organize and lead workshops on various technologies, including web development, machine learning, and cloud computing, helping peers enhance their technical skills and gain hands-on experience through practical projects.",
+            "🌟 I also facilitate hackathons and coding competitions, encouraging teamwork and innovation among members, while connecting with industry professionals to provide mentorship and guidance to aspiring developers.",
+          ],
+          color: "#181717",
+        },
+      ],
+    },
   ],
 };
 
@@ -584,7 +545,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create applications and deploy them online.",
   avatar_image_path: "projects_image.svg",
 };
 
