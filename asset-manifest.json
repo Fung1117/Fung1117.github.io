@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.b75d751f.chunk.css",
-    "main.js": "./static/js/main.25065dd4.chunk.js",
-    "main.js.map": "./static/js/main.25065dd4.chunk.js.map",
+    "main.css": "./static/css/main.a08d5dc4.chunk.css",
+    "main.js": "./static/js/main.49bbc900.chunk.js",
+    "main.js.map": "./static/js/main.49bbc900.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fb7e7b0c.js",
     "runtime-main.js.map": "./static/js/runtime-main.fb7e7b0c.js.map",
-    "static/js/2.048ece87.chunk.js": "./static/js/2.048ece87.chunk.js",
-    "static/js/2.048ece87.chunk.js.map": "./static/js/2.048ece87.chunk.js.map",
+    "static/js/2.b374f6b6.chunk.js": "./static/js/2.b374f6b6.chunk.js",
+    "static/js/2.b374f6b6.chunk.js.map": "./static/js/2.b374f6b6.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.95a731b1226df87fd38c90296ac2e350.js": "./precache-manifest.95a731b1226df87fd38c90296ac2e350.js",
+    "precache-manifest.9fae05b6bf7cc654a248f988bb3bdf6d.js": "./precache-manifest.9fae05b6bf7cc654a248f988bb3bdf6d.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.b75d751f.chunk.css.map": "./static/css/main.b75d751f.chunk.css.map",
+    "static/css/main.a08d5dc4.chunk.css.map": "./static/css/main.a08d5dc4.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_profile.png": "./static/media/animated_profile.b0e26b6b.png",
@@ -32,6 +32,7 @@
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
     "static/media/hkstp_logo.png": "./static/media/hkstp_logo.0b36cbf5.png",
     "static/media/hku_logo.png": "./static/media/hku_logo.ea8cc6b9.png",
+    "static/media/klook_logo.png": "./static/media/klook_logo.79273b26.png",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
     "static/media/loaderLogo.gif": "./static/media/loaderLogo.e426702e.gif",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
@@ -48,8 +49,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fb7e7b0c.js",
-    "static/js/2.048ece87.chunk.js",
-    "static/css/main.b75d751f.chunk.css",
-    "static/js/main.25065dd4.chunk.js"
+    "static/js/2.b374f6b6.chunk.js",
+    "static/css/main.a08d5dc4.chunk.css",
+    "static/js/main.49bbc900.chunk.js"
   ]
 }

@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c25d6321b2b3aa9e0ee73b4552575666",
+    "revision": "33ac20c2907f980b731d54f78fbd7b91",
     "url": "./index.html"
   },
   {
-    "revision": "4ef23baeb3e07c7574be",
-    "url": "./static/css/main.b75d751f.chunk.css"
+    "revision": "110eb871d3984ca1290b",
+    "url": "./static/css/main.a08d5dc4.chunk.css"
   },
   {
-    "revision": "d235df797a60ff3ab978",
-    "url": "./static/js/2.048ece87.chunk.js"
+    "revision": "e272c8c6d995ddd94e0c",
+    "url": "./static/js/2.b374f6b6.chunk.js"
   },
   {
-    "revision": "4ef23baeb3e07c7574be",
-    "url": "./static/js/main.25065dd4.chunk.js"
+    "revision": "110eb871d3984ca1290b",
+    "url": "./static/js/main.49bbc900.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -186,6 +186,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ea8cc6b9b4f0addfdbb253fea6c3bf12",
     "url": "./static/media/hku_logo.ea8cc6b9.png"
+  },
+  {
+    "revision": "79273b26e4117510d23c2b47b139d765",
+    "url": "./static/media/klook_logo.79273b26.png"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
